@@ -33,7 +33,8 @@ This project analyzes Human Resources data to identify key factors affecting emp
 ---
 
 ## 📷 Dashboard Preview
-<img width="1920" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/9e98bcf8-0570-4a80-9bd6-fb8a63bdc84d" />
+<img width="1658" height="789" alt="Capture" src="https://github.com/user-attachments/assets/2d8f347b-b257-4d1b-952e-303f5c983240" />
+
 
 
 ---
