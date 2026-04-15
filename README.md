@@ -1,34 +1,40 @@
 # 📊 HR Data Analysis Using Excel
 
 ## 🧾 Overview
-This project analyzes Human Resources data to identify key factors affecting employee attrition. The analysis is conducted using Excel, with results presented in an interactive dashboard to support data-driven decision-making.
 
-> **Note:** The dataset and dashboard are in Arabic, demonstrating the ability to work with non-English data.
+This project analyzes Human Resources data to uncover key insights about employee salaries, performance, attrition, and workforce distribution. The analysis is conducted using Excel, with results presented in an interactive dashboard to support data-driven decision-making.
+
+*Note:* The dataset and dashboard are in Arabic, demonstrating the ability to work with multilingual data.
 
 ---
 
 ## 🛠 Tools & Skills
+
 - Microsoft Excel  
 - Pivot Tables  
 - Data Cleaning  
-- Data Visualization (Dashboard Design)
+- Data Visualization (Dashboard Design)  
+- Data Analysis  
 
 ---
 
 ## 📊 Analysis Process
-- Data cleaning and handling missing values  
-- Exploratory analysis of employee attributes (age, salary, years at company, etc.)  
-- Using Pivot Tables to uncover patterns and trends  
-- Building an interactive dashboard for clear visual insights  
+
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Using Pivot Tables to identify patterns  
+- Building an interactive dashboard  
 
 ---
 
 ## 🔍 Key Insights
-- Employees working overtime have an attrition rate approximately **30% higher** than others  
-- Lower salaries are strongly associated with higher attrition, representing approximately **60% of resignations**  
-- Employees who haven’t received a promotion in the last **3 years** show a **25% higher attrition rate**  
-- The **25–35 age group** has the highest attrition rate  
-- Certain departments experience significantly higher turnover than others  
+
+- 💰 IT department has the highest average salary (~13.2K), reflecting high demand for technical roles  
+- 🚪 IT also has the highest attrition rate, indicating potential burnout or strong external opportunities  
+- ⏱️ Management and IT show the highest overtime hours, which may impact employee satisfaction  
+- 📈 Performance ratings are consistent across roles, with a slight edge for analysts  
+- 🚻 Gender distribution is balanced across departments, indicating diversity  
+- 🎓 Training and promotion rates are evenly distributed, reflecting fair HR practices  
 
 ---
 
@@ -46,18 +52,21 @@ This project analyzes Human Resources data to identify key factors affecting emp
 ---
 
 ## 🎯 Business Value
+
 This project helps organizations:
-- Reduce employee attrition  
-- Improve workplace conditions  
-- Make informed HR decisions based on data  
+
+- Identify high-risk attrition areas  
+- Improve employee retention  
+- Support data-driven HR decisions  
 
 ---
 
 ## 📌 Recommendations
-- Review overtime policies to reduce employee burnout  
-- Adjust salary structures to remain competitive  
-- Implement clear promotion paths and career development plans  
-- Focus on retention strategies for employees aged 25–35  
-- Investigate departments with high attrition and address underlying issues  
+
+- Reduce overtime in high-pressure departments (especially IT & Management)  
+- Improve retention strategies in IT  
+- Maintain balanced training and promotion systems  
+- Monitor workload to prevent employee burnout 
+  
 
 ---
